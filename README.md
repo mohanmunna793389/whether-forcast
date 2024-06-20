@@ -4,14 +4,14 @@ In this project, you will make a web application to check out the weather foreca
 Skills Required – JavaScript, Node.js, ReactJS.
 
 # deployment links
-backend :https://weather-forecast-websitee.onrender.com/
+backend :https://weather-forecast-websitee.onrender.com/<br>
 frontend:https://weather-forecast-website-y3cv.vercel.app/
 
 image
 
 # Tech stack
-html
-css
-react js
-java Script
+html<br>
+css<br>
+react js<br>
+java Script<br>
 node js
